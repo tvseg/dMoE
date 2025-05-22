@@ -30,8 +30,8 @@ Authors: Yujin Oh*, Pengfei Jin*, Sangjoon Park*, Sekeun Kim, Siyeop Yoon, Kyung
  `bash test_ham.sh`
 
 ## Acknowledgement:
- - FairSeg:  [https://github.com/openai/CLIP](https://github.com/Harvard-Ophthalmology-AI-Lab/FairSeg)
- - HAM10000: [https://github.com/KMnP/vpt](https://datasetninja.com/skin-cancer-ham10000)
+ - FairSeg:  [https://github.com/Harvard-Ophthalmology-AI-Lab/FairSeg]
+ - HAM10000: [https://datasetninja.com/skin-cancer-ham10000]
  
 ## Citation:
 ```
