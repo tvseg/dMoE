@@ -1,4 +1,4 @@
-# Distribution-aware Fairness Learning in Medical Image Segmentation From A Control-Theoretic Perspective
+# Distribution-aware Fairness Learning in Medical Image Segmentation From A Control-Theoretic Perspective (ICML 2025, Spotlight)
 
 Authors: Yujin Oh*, Pengfei Jin*, Sangjoon Park*, Sekeun Kim, Siyeop Yoon, Kyungsang Kim, Jin Sung Kim, Xiang Li, Quanzheng Li
 
