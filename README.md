@@ -1,17 +1,17 @@
 # Official source code for Distribution-aware Fairness Learning in Medical Image Segmentation From A Control-Theoretic Perspective
-![alt text](https://github.com/tvseg/dMoE/blob/main/main.png)
 
 Authors: Yujin Oh*, Pengfei Jin*, Sangjoon Park*, Sekeun Kim, Siyeop Yoon, Kyungsang Kim, Jin Sung Kim, Xiang Li, Quanzheng Li
+
 *Equal contribution
 
-[![arXiv](https://arxiv.org/abs/2502.00619)
+[![arXiv](https://arxiv.org/abs/2502.00619)]
 
 ---
 
 > **Abstract:** *TEnsuring fairness in medical image segmentation is critical due to biases in imbalanced clinical data acquisition caused by demographic attributes (e.g., age, sex, race) and clinical factors (e.g., disease severity). To address these challenges, we introduce Distribution-aware Mixture of Experts (dMoE), inspired by optimal control theory. We provide a comprehensive analysis of its underlying mechanisms and clarify dMoE's role in adapting to heterogeneous distributions in medical image segmentation. Furthermore, we integrate dMoE into multiple network architectures, demonstrating its broad applicability across diverse medical image analysis tasks. By incorporating demographic and clinical factors, dMoE achieves state-of-the-art performance on two 2D benchmark datasets and a 3D in-house dataset. Our results highlight the effectiveness of dMoE in mitigating biases from imbalanced distributions, offering a promising approach to bridging control theory and medical image segmentation within fairness learning paradigms. The source code is available at https://github.com/tvseg/dMoE* 
 >
 > <p align="center">
-> <img width="800" src="figs/OT-attention.png">
+> <img width="800" src="main.png">
 > </p>
 
 ## News
