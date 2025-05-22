@@ -4,7 +4,7 @@ Authors: Yujin Oh*, Pengfei Jin*, Sangjoon Park*, Sekeun Kim, Siyeop Yoon, Kyung
 
 *Equal contribution
 
-[![arXiv](https://arxiv.org/abs/2502.00619)]
+https://arxiv.org/abs/2502.00619
 
 ---
 
