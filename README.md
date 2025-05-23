@@ -26,9 +26,9 @@ https://arxiv.org/abs/2502.00619
 | 3D Radiotherapy Target | dMoE |   |   |
 
 ## Inference:
- `bash test.sh`
+ `bash 2d/test.sh`
  
- `bash test_ham.sh`
+ `bash 2d/test_ham.sh`
 
 ## Acknowledgement:
  - FairSeg:  [https://github.com/Harvard-Ophthalmology-AI-Lab/FairSeg]
