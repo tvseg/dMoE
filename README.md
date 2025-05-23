@@ -30,6 +30,8 @@ https://arxiv.org/abs/2502.00619
  
  `bash 2d/test_ham.sh`
 
+## analysis:
+ `python 2d/analysis/ensemble.py`
 
 ## Related Assets & Acknowledgement:
 Our work builds upon the following valuable resources, which have significantly influenced our implementation. We extend our sincere gratitude to the original authors.
