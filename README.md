@@ -15,7 +15,8 @@ https://arxiv.org/abs/2502.00619
 > </p>
 
 ## News
-* [2025.05.01] Our paper is accepted on ICML2025, Spotlight Poster. 
+* [2025.05.01] Our paper is accepted on ICML2025, Spotlight Poster.
+* [2025.05.22] Source codes are released.
 
 ## Pretrained models:
 
