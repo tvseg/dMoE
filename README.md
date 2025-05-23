@@ -19,14 +19,15 @@ https://arxiv.org/abs/2502.00619
 
 ## Pretrained models:
 
-|     Dataset     |   Setting    |    Model Zoo   |
-| :-------------: | :---------:  | :----------------------------------------------------------: |
-| 2D FairSeg |  dMoE   |    |
-| 2D HAM10000 | dMoE |   |
-| 3D Radiotherapy Target | dMoE |   |
+|     Dataset     |   Setting    |    Model Zoo   |  Results   |
+| :-------------: | :---------:  | :--------------------: | :--------------------: |
+| 2D FairSeg |  dMoE   |  [checkpoint](https://drive.google.com/file/d/1Bu_Zz9gSnSGy5wHon-fT9iSwV-OuFAHo/view?usp=sharing) |  [Rim Results](https://drive.google.com/file/d/1DBfnmK7_Gn5m1GDNyclFTvWKbb05GTOC/view?usp=sharing) [Cup Results](https://drive.google.com/file/d/1nt1S90IYBjJ5woouNbDBg8wOjZvTe48M/view?usp=sharing)  |
+| 2D HAM10000 | dMoE | [checkpoint](https://drive.google.com/file/d/18Gmmlnwn5hT_jliKWxSxzKR7soCXHb3l/view?usp=sharing)  | [Results](https://drive.google.com/file/d/17xmxx6dZrOT3xo7MLUj4eDIPT9CzEYFS/view?usp=sharing)   |
+| 3D Radiotherapy Target | dMoE |   |   |
 
 ## Inference:
  `bash test.sh`
+ 
  `bash test_ham.sh`
 
 ## Acknowledgement:
