@@ -30,9 +30,11 @@ https://arxiv.org/abs/2502.00619
  
  `bash 2d/test_ham.sh`
 
-## Acknowledgement:
- - FairSeg:  [https://github.com/Harvard-Ophthalmology-AI-Lab/FairSeg]
- - HAM10000: [https://datasetninja.com/skin-cancer-ham10000]
+
+## Related Assets & Acknowledgement:
+Our work builds upon the following valuable resources, which have significantly influenced our implementation. We extend our sincere gratitude to the original authors.
+ - FairSeg: [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/FairSeg)
+ - HAM10000: [Dataset](https://datasetninja.com/skin-cancer-ham10000)
  
 ## Citation:
 ```
