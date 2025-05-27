@@ -17,7 +17,7 @@ https://arxiv.org/abs/2502.00619
 ## News
 * [2025.05.01] Our paper is accepted on ICML2025, Spotlight Poster.
 * [2025.05.22] Source codes and checkpoints for 2D are released.
-* [2025.05.27] Python codes for model architecture for 3D are released.
+* [2025.05.27] Python codes 3D model architecture are released.
 
 ## Pretrained models:
 
