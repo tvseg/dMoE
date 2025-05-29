@@ -3,6 +3,7 @@
 Authors: Yujin Oh*, Pengfei Jin*, Sangjoon Park*, Sekeun Kim, Siyeop Yoon, Kyungsang Kim, Jin Sung Kim, Xiang Li**, Quanzheng Li**
 
 *Equal contribution
+
 **Corresponding authors
 
 https://arxiv.org/abs/2502.00619
